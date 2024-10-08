@@ -1,3 +1,4 @@
-#_elev_io a, #_elev_io ._elevio_title {
+/* Target the specific div element with the exact class names */
+._elevio_title._9sg1e._elevio_articlelink_title {
     color: #68489b !important;
 }
